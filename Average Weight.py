@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+c = int(input())
+n = (int)(3*c-(a+b))
+print(format(n))
